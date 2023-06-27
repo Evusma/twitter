@@ -1,2 +1,2 @@
 # twitter
-Automated tweets
+Here there is the program I use to automate my tweets.
